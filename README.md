@@ -21,27 +21,6 @@ I'm interested in product design/development, design systems, JAMstack, good DX/
 
 **I love JavaScript, TypeScript, Node.js, Prisma, Nexus, GraphQL, React.js, Next.js, among other cutting-edge technologies and tools.** Visit my [website](https://jesusferretti.now.sh) to learn more.
 
-### Pinned
-
-**OSS**
-
-- [`stripe-graphql`](https://github.com/jferrettiboke/stripe-graphql)
-- [Cairo](https://github.com/jferrettiboke/cairo)
-
-**Examples**
-
-- [Nexus API example](https://github.com/jferrettiboke/nexus-api-example)
-- [Server-driven UI example](https://github.com/jferrettiboke/server-driven-ui-example)
-- [React Stripe app example](https://github.com/jferrettiboke/react-stripe-app-example)
-- [React auth app example](https://github.com/jferrettiboke/react-auth-app-example)
-
-**Apps**
-
-- [Gitignore as a Service](https://github.com/jferrettiboke/gitignore-as-a-service)
-- [Video conferencing app](https://github.com/jferrettiboke/video-conferencing-app)
-- [Avatar Maker](https://github.com/jferrettiboke/youravatar.now.sh)
-- [React chat app](https://github.com/jferrettiboke/react-chat-app)
-
 ### Contact
 
-You can reach me on [Twitter](https://twitter.com/jferrettiboke) or [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-ferretti-907766104).
+You can reach me out on [Twitter](https://twitter.com/jferrettiboke) or [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-ferretti-907766104).
