@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I'm a Senior Full-stack Developer with over 10 years experience, covering frontend and backend using cutting-edge tools to help companies and startups design and build high quality products.
 
-I'm interested in product design, design systems, JAMstack, good DX/UX, and under engineering. 
+I'm interested in product design/development, design systems, JAMstack, good DX/UX, and under engineering.
 
-- Twitter: [https://twitter.com/jferrettiboke](https://twitter.com/jferrettiboke)
-- LinkedIn: [https://www.linkedin.com/in/jes%C3%BAs-ferretti-907766104](https://www.linkedin.com/in/jes%C3%BAs-ferretti-907766104)
-- Website: https://jesusferretti.now.sh
+**I love JavaScript, TypeScript, Node.js, Prisma, Nexus, GraphQL, React.js, Next.js, and other cool and cutting-edge technologies and tools.** Visit my [website](https://jesusferretti.now.sh) to learn more.
+
+You can reach me on [Twitter](https://twitter.com/jferrettiboke) or [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-ferretti-907766104).
