@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Senior Full-stack Developer with over 10 years experience, covering frontend and backend using cutting-edge tools to help companies and startups design and build high quality products.
+
+I'm interested in product design, design systems, JAMstack, good DX/UX, and under engineering. 
+
+- Twitter: [https://twitter.com/jferrettiboke](https://twitter.com/jferrettiboke)
+- LinkedIn: [https://www.linkedin.com/in/jes%C3%BAs-ferretti-907766104](https://www.linkedin.com/in/jes%C3%BAs-ferretti-907766104)
+- Website: https://jesusferretti.now.sh
